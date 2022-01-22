@@ -24,5 +24,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkw1491&repo=e-commerce-rest-api)](https://github.com/bkw1491/e-commerce-rest-api)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkw1491&repo=e-commerce-frontend)](https://github.com/bkw1491/e-commerce-frontend)
+
 
 
